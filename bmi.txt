@@ -1,0 +1,17 @@
+Unit of mes    Gen         height         weight              age
+
+US		M	    ft->2-7	   lbs->20-400	        yrs->13-120
+                F           ft->2-7	   lbs->20-400	        yrs->13-120
+
+Metric		M	     cm->60-215     kgs->9-182	        yrs->13-120
+                F            cm->60-215     kgs->9-182	        yrs->13-120
+
+
+
+
+Unit of mes    Gen            height             weight       Age      
+
+yes            yes              Yes             yes          no
+yes            yes		yes		no	   yes
+yes		yes		yes		no	   no
+yes		yes		yes		yes	   yes
